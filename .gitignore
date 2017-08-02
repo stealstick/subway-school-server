@@ -1,2 +1,3 @@
 subvenv
 subway/subwayapi/migrations
+subway/subwayapi/management

@@ -24,3 +24,8 @@ class StationWaySerializer(serializers.ModelSerializer):
     class Meta:
         model = StationWay
         fields = '__all__'
+
+class FilterSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = StationWay
+        fields = '__all__'
